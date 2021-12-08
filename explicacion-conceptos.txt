@@ -1,0 +1,21 @@
+-Variables: 
+Una variable es como un contenedor que guarda instrucciones.
+
+
+-Strings: 
+Son bloques de texto que van entre comillas. 
+
+
+-Funciones (argumentos, return):
+Las funciones son lo que nos permite interactuar con las variables y hacer algo con ellas.
+Basicamente nos permiten definir/asignar a la variable una tarea.
+Los argumentos son lo que utilizamos para indicar la tarea que queremos que se realice con esa funcion.
+Return recupera (devuelve) lo que declaramos dentro de la funcion y es la unia manera en la que podemos acceder a ello.
+
+
+-Declaraciones if
+Son tareas que queremos que se realicen "solo si" se cumple la regla que hemos definido anteriormente.
+
+
+-Valores booleanos (true, false):
+Se utilizan cuando solo existen dos opciones de respuesta, las cuales pueden ser por ejemplo 1 o 0, activar o desactivar, true o false.
